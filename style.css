@@ -27,18 +27,29 @@ header span {
 
 .main-section {
     /* Стили для первой секции */
+    background-color: rgba(250, 250, 255, 1);
+    padding: 60px 0px;
+    min-height: 100vh;
 }
 
 .main-title {
     /* Стили для заголовка в первой секции */
+    font-weight: 700px;
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: rgba(48, 48, 48, 1);
 }
 
 .main-text {
     /* Стили для текста в первой секции */
+    font-weight: 400px;
+    font-size: 18px;
+    color: rgba(48, 48, 48, 1);
 }
 
 .main-image {
     /* Стили для изображения в первой секции */
+    max-width: 715px;
 }
 
 
